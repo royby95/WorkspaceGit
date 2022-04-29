@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lesson15/Lesson15.iml" filepath="$PROJECT_DIR$/Lesson15/Lesson15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson16/Lesson16.iml" filepath="$PROJECT_DIR$/Lesson16/Lesson16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson17/Lesson17.iml" filepath="$PROJECT_DIR$/Lesson17/Lesson17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson18/Lesson18.iml" filepath="$PROJECT_DIR$/Lesson18/Lesson18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson20/Lesson20.iml" filepath="$PROJECT_DIR$/Lesson20/Lesson20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson21/Lesson21.iml" filepath="$PROJECT_DIR$/Lesson21/Lesson21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson22/Lesson22.iml" filepath="$PROJECT_DIR$/Lesson22/Lesson22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson23/Lesson23.iml" filepath="$PROJECT_DIR$/Lesson23/Lesson23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson24/Lesson24.iml" filepath="$PROJECT_DIR$/Lesson24/Lesson24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson25/Lesson25.iml" filepath="$PROJECT_DIR$/Lesson25/Lesson25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson26/Lesson26.iml" filepath="$PROJECT_DIR$/Lesson26/Lesson26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson27/Lesson27.iml" filepath="$PROJECT_DIR$/Lesson27/Lesson27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFirstModule/MyFirstModule.iml" filepath="$PROJECT_DIR$/MyFirstModule/MyFirstModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshop4/Workshop4.iml" filepath="$PROJECT_DIR$/Workshop4/Workshop4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshop6/Workshop6.iml" filepath="$PROJECT_DIR$/Workshop6/Workshop6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workspace.iml" filepath="$PROJECT_DIR$/Workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson16/workshop4.iml" filepath="$PROJECT_DIR$/Lesson16/workshop4.iml" />
+    </modules>
+  </component>
+</project>
