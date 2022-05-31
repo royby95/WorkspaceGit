@@ -52,7 +52,6 @@ public class TVSeries
 
   public ArrayList<Actor> getEmmyWinners()
   {
-
     ArrayList<Actor> actorsEmmy = new ArrayList<>();
     for (int i = 0; i <actors.size() ; i++)
     {
