@@ -13,6 +13,6 @@ public class TestGradeList
     gradeList1.setGrades(grade2,0);
     System.out.println(gradeList1.getGrade(1));
     System.out.println(gradeList1.getGrade(0));
-    System.out.println(gradeList1.g);
+
   }
 }

@@ -15,11 +15,12 @@ public class Lesson4part8
     speed = 0;
   }
 
-  public  int getYearModel()
+  public int getYearModel()
   {
     return yearModel;
   }
-  public  String getMake()
+
+  public String getMake()
   {
     return make;
   }
@@ -33,6 +34,7 @@ public class Lesson4part8
   {
     this.speed = speed + 5;
   }
+
   public void setBrake(int speed)
   {
     this.speed = speed - 5;
@@ -40,7 +42,7 @@ public class Lesson4part8
 
   public static void main(String[] args)
   {
-    Lesson4part8 car = new Lesson4part8(1992,"Nissan");
+    Lesson4part8 car = new Lesson4part8(1992, "Nissan");
     car.setAccelerate(1);
     System.out.println(car.getSpeed());
     car.setAccelerate(2);

@@ -1,7 +1,5 @@
 package Lesson12;
 
-import Lesson11.MyDate;
-
 public class MyNumber
 {
   private int number;

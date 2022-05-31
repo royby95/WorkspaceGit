@@ -272,7 +272,7 @@ public class MyDate
     return new MyDate(currentDay, currentMonth, currentYear);
   }
 
-  public boolean isBefore(Lesson11.MyDate date2)
+  public boolean isBefore(Lesson12.Lesson11.MyDate date2)
   {
     if (year< date2.year)
     {
